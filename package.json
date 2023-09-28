@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gsap": "^3.12.2",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "remixicon": "^3.5.0"
   },
   "devDependencies": {
     "autoprefixer": "latest",
