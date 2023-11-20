@@ -222,12 +222,12 @@ p {
 
 .top-banner {
     width: 100%;
-    background: url('../images/bg/bg-1.jpg') no-repeat center;
+    background: url(../Images/bg/bg-1.jpg) no-repeat center;
     background-size: cover;
     padding: 16.875rem 0 9.375rem;
 }
 .top-banner-header{
-    background: url('../images/img/headback.png') no-repeat center;
+    background: url(../Images/img/headback.png) no-repeat center;
     background-position: bottom;
     background-size: cover;
 
@@ -286,7 +286,7 @@ p {
 .story-section {
     width: 100%;
     height: 28.125rem;
-    background: url('../images/bg/bg-3.jpg') no-repeat center;
+    background: url('../Images/bg/bg-3.jpg') no-repeat center;
 
     background-size: cover;
     padding-top: 100px;
